@@ -8,7 +8,7 @@ const Data = {
       price: 120,
       countInStock: 10,
       brand: 'Nike',
-      rating: 5,
+      rating: 1,
       numReviews: 10,
       description: 'high quality shirt',
     },
@@ -21,8 +21,8 @@ const Data = {
       price: 120,
       countInStock: 10,
       brand: 'Nike',
-      rating: 5,
-      numReviews: 10,
+      rating: 2,
+      numReviews: 8,
       description: 'high quality shirt',
     },
     {
@@ -33,8 +33,8 @@ const Data = {
       price: 120,
       countInStock: 10,
       brand: 'Nike',
-      rating: 5,
-      numReviews: 10,
+      rating: 3,
+      numReviews: 7,
       description: 'high quality shirt',
     },
     {
@@ -45,8 +45,8 @@ const Data = {
       price: 120,
       countInStock: 10,
       brand: 'Nike',
-      rating: 5,
-      numReviews: 10,
+      rating: 4,
+      numReviews: 6,
       description: 'high quality shirt',
     },
     {
@@ -58,7 +58,7 @@ const Data = {
       countInStock: 10,
       brand: 'Nike',
       rating: 5,
-      numReviews: 10,
+      numReviews: 2,
       description: 'high quality shirt',
     },
     {
@@ -70,7 +70,7 @@ const Data = {
       countInStock: 10,
       brand: 'Nike',
       rating: 5,
-      numReviews: 10,
+      numReviews: 1,
       description: 'high quality shirt',
     },
     {
@@ -82,7 +82,7 @@ const Data = {
       countInStock: 10,
       brand: 'Nike',
       rating: 5,
-      numReviews: 10,
+      numReviews: 9,
       description: 'high quality shirt',
     },
     {
